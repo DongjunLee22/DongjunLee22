@@ -8,7 +8,9 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=CPlusPlus&logoColor=white)![Matlab](https://img.shields.io/badge/-Matlab-pink?style=flat-square&logo=Matlab)
 
 ### Platform 🧰 & IDE 🔧 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 ![Visual Studio 2022](https://img.shields.io/badge/-Visual%20Studio%202022-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 
