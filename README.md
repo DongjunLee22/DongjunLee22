@@ -5,4 +5,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DongjunLee22&layout=compact" />
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DongjunLee22&repo=polishing-robot-control)](https://github.com/DongjunLee22/polishing-robot-control)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DongjunLee22&repo=polishing-robot-control)](https://github.com/DongjunLee22/Robot-Polishing-RL-system)
+
