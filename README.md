@@ -2,8 +2,6 @@
 
 <h1 align="center">
   Hi, I'm <a href="https://northpoleforce.github.io/" target="_blank">DJLee 👋</a> <br>
-	<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/DongjunLee2">
-	<img alt="GitHub followers" src="https://img.shields.io/github/followers/DongjunLee2">
 </h1>
 
 ### Code⚡ 
