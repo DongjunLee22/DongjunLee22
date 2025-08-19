@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&vCenter=true&repeat=false&width=512&height=32&lines=WELCOME+TO+MY+GITHUB!%E2%9C%A8)](https://git.io/typing-svg)
 
 <h1 align="center">
-  Hi, I'm <a href="https://northpoleforce.github.io/" target="_blank">DJLee 👋</a> <br>
+  Hi, I'm <a href="https://northpoleforce.github.io/" target="_blank">mvng6 👋</a> <br>
 </h1>
 
 ### Code⚡ 
