@@ -7,7 +7,7 @@
 ### Code⚡ 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=CPlusPlus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-00599C?style=flat-square&logo=Python&logoColor=white)
-![Matlab](https://img.shields.io/badge/-Matlab-pink?style=flat-square&logo=Matlab)
+![Matlab](https://img.shields.io/badge/Matlab-pink?style=flat-square&logo=Matlab)
 
 ### Platform 🧰 & IDE 🔧 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
