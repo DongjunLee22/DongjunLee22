@@ -1,55 +1,27 @@
-# 안녕하세요, mvng6 입니다 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&vCenter=true&repeat=false&width=512&height=32&lines=WELCOME+TO+MY+GITHUB!%E2%9C%A8)](https://git.io/typing-svg)
 
-[![Followers](https://img.shields.io/github/followers/mvng6?style=for-the-badge)](https://github.com/mvng6?tab=followers)
-![Profile Views](https://komarev.com/ghpvc/?username=mvng6&style=for-the-badge&color=0e75b6)
+<h1 align="center">
+  Hi, I'm <a href="https://northpoleforce.github.io/" target="_blank">mvng6 👋</a> <br>
+</h1>
 
-## 🧭 소개
-한 줄 소개: <당신을 가장 잘 표현하는 한 문장>
-- 하는 일: <현재 역할/팀/관심 분야>
-- 키워드: <예: Backend · Distributed Systems · DevOps · AI/ML>
+### Code⚡ 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=CPlusPlus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-00599C?style=flat-square&logo=Python&logoColor=white)
+![Matlab](https://img.shields.io/badge/Matlab-pink?style=flat-square&logo=Matlab)
 
-## 🛠 기술 스택
-<!-- 사용하지 않는 줄은 삭제하거나 주석 해제만 해주세요 -->
-- 언어: <TypeScript / Python / Go / Java / Rust ...>
-- 프론트엔드: <React / Next.js / Vue / Svelte ...>
-- 백엔드: <Node.js / Spring / Django / FastAPI / gRPC ...>
-- 인프라/클라우드: <AWS / GCP / Azure / Docker / Kubernetes / Terraform ...>
-- 데이터/AI: <PostgreSQL / Redis / Kafka / PyTorch / TensorFlow ...>
-- 협업/테스트: <GitHub Actions / Jest / Playwright / CI/CD ...>
+### Platform 🧰 & IDE 🔧 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
-## 🚀 대표 프로젝트
-- <프로젝트명 1> — <짧은 설명 (한 줄)>  
-  링크: <https://github.com/mvng6/your-project-1> · 기술: <Stack>
-- <프로젝트명 2> — <짧은 설명 (한 줄)>  
-  링크: <https://github.com/mvng6/your-project-2> · 기술: <Stack>
-- <프로젝트명 3> — <짧은 설명 (한 줄)>  
-  링크: <https://github.com/mvng6/your-project-3> · 기술: <Stack>
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
+![Visual Studio 2022](https://img.shields.io/badge/-Visual%20Studio%202022-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 
-## ✍️ 글/활동
-- 블로그: <링크 또는 RSS>  
-- 발표/활동: <발표 제목·링크 또는 행사명>  
-- 오픈소스 기여: <기여 저장소·PR 링크>
+### About my Github
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mvng6&count_private=true&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvng6" />
+</a>
 
-## 📊 GitHub 통계
-<!-- 원하면 주석 해제 후 사용하세요. theme=dark|light|transparent 등 지정 가능 -->
-<!--
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mvng6&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvng6&layout=compact&theme=dark)
-![Streak](https://streak-stats.demolab.com?user=mvng6&theme=dark)
--->
 
-## 🔗 링크
-- 웹사이트: <https://your-site.com>
-- LinkedIn: <https://www.linkedin.com/in/your-id>
-- X(Twitter): <https://x.com/your-id>
-- 이메일: <you@example.com>
-
-## 🌱 요즘은요
-- 배우는 중: <기술/주제>
-- 만들고 있는 것: <사이드 프로젝트/오픈소스>
-- 함께하고 싶은 일: <콜라보/구인/멘토링 등>
-
----
-
-만약 이 README가 마음에 드셨다면 ⭐️를 남겨 주세요!  
-문의는 이슈나 이메일로 편하게 주세요 :)
